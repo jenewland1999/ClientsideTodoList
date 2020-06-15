@@ -1,6 +1,5 @@
-# ClientsideTodoList
+# Client-side To-Do List
 
-A Clientside To-Do List Web Application
+A simple client-side to-do list built using HTML, CSS and JavaScript.
 
-This project is released under the MIT license. Please feel free to ues the project in accordance with license. What is MIT? [Learn more](https://github.com/SnowShock35/ClientsideTodoList/blob/master/LICENSE).
-
+![Screenshot of client-side to-do list](https://cdn.jenewland.me.uk/media/images/clientside-to-do-list.png)
